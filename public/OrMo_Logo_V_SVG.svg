@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 120">
+  <g fill="none" stroke-width="3" stroke-linecap="round">
+    <circle cx="56" cy="60" r="38" stroke="#002ea6"/>
+    <circle cx="56" cy="60" r="38" stroke="#01a4ff" stroke-dasharray="4 10" transform="rotate(-20 56 60)"/>
+    <path d="M40 72 L48 44 L56 64 L64 44 L72 72" stroke="#01ac32" stroke-linejoin="round"/>
+    <circle cx="56" cy="60" r="3" fill="#01a4ff" stroke="none"/>
+  </g>
+  <text x="112" y="52" font-family="Manrope, Arial, sans-serif" font-size="30" font-weight="700" fill="#07111f" letter-spacing="-1">Orbis<tspan fill="#002ea6">Moneta</tspan></text>
+  <text x="114" y="74" font-family="Arial, sans-serif" font-size="9" font-weight="600" fill="#64748b" letter-spacing="3">FUTURE OF FINANCIAL INFRASTRUCTURE</text>
+</svg>
